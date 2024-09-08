@@ -1,0 +1,10 @@
+C:\Users\mayar\Downloads\Microondas\Microondas\bin\Debug\Microondas.exe.config
+C:\Users\mayar\Downloads\Microondas\Microondas\bin\Debug\Microondas.exe
+C:\Users\mayar\Downloads\Microondas\Microondas\bin\Debug\Microondas.pdb
+C:\Users\mayar\Downloads\Microondas\Microondas\obj\Debug\Microondas.csproj.AssemblyReference.cache
+C:\Users\mayar\Downloads\Microondas\Microondas\obj\Debug\Microondas.Microondas.resources
+C:\Users\mayar\Downloads\Microondas\Microondas\obj\Debug\Microondas.Properties.Resources.resources
+C:\Users\mayar\Downloads\Microondas\Microondas\obj\Debug\Microondas.csproj.GenerateResource.cache
+C:\Users\mayar\Downloads\Microondas\Microondas\obj\Debug\Microondas.csproj.CoreCompileInputs.cache
+C:\Users\mayar\Downloads\Microondas\Microondas\obj\Debug\Microondas.exe
+C:\Users\mayar\Downloads\Microondas\Microondas\obj\Debug\Microondas.pdb
